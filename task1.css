@@ -1,0 +1,23 @@
+h1,p{
+    font-size: x-large;
+}
+
+ .img{
+    display: inline-flex;
+ }
+
+ .li1,.li2,.li3{
+    border-bottom:dotted;
+    width: max-content;
+
+ }
+ .u1,.u2,.u3,.u4{
+    border-bottom:dotted;
+    width: max-content;
+    text-decoration: none;
+
+ }
+ ul{
+   list-style-type: square;
+   font-size: large;
+ }
